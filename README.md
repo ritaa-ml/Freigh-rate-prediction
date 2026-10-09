@@ -1,5 +1,6 @@
 Freight Rate Prediction
 
+**Loom walkthrough:** https://www.loom.com/share/3bf57c381f0a4242b5760fa967bbb16b
 Predicts the posted rate of freight loads. Trained on Jan-Oct 2025 loads and used to predict Nov-Dec 2025 loads plus the fixed December lane chart.
 
 Files
